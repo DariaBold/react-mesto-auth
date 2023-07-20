@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mesto-react/static/css/main.b2db87fc.css",
+    "main.js": "/mesto-react/static/js/main.6f234d93.js",
+    "static/js/787.5530211c.chunk.js": "/mesto-react/static/js/787.5530211c.chunk.js",
+    "static/media/logo.svg": "/mesto-react/static/media/logo.e1792cd1bf55c68d1538deb5b248d425.svg",
+    "static/media/Group.svg": "/mesto-react/static/media/Group.7913ddfd147a48616b09.svg",
+    "index.html": "/mesto-react/index.html",
+    "static/media/fail.svg": "/mesto-react/static/media/fail.df8eddf661ff88f2d0ef.svg",
+    "static/media/trash.svg": "/mesto-react/static/media/trash.823b0cf1b0b7e9cb7cad.svg",
+    "static/media/success.svg": "/mesto-react/static/media/success.1b6082f862eac35e2514.svg",
+    "static/media/Union.svg": "/mesto-react/static/media/Union.fe17a515669479b1e649.svg",
+    "static/media/EditButton.svg": "/mesto-react/static/media/EditButton.a1892ea72cb87c8fc3aa.svg",
+    "static/media/pencel.svg": "/mesto-react/static/media/pencel.a086f758840ae814ecde.svg",
+    "static/media/CloseIcon.svg": "/mesto-react/static/media/CloseIcon.2ceb783afbab75916ddc.svg",
+    "static/media/Vector.svg": "/mesto-react/static/media/Vector.d86bb2edc2f6eadb96b7.svg",
+    "main.b2db87fc.css.map": "/mesto-react/static/css/main.b2db87fc.css.map",
+    "main.6f234d93.js.map": "/mesto-react/static/js/main.6f234d93.js.map",
+    "787.5530211c.chunk.js.map": "/mesto-react/static/js/787.5530211c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2db87fc.css",
+    "static/js/main.6f234d93.js"
+  ]
+}
