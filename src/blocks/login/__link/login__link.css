@@ -5,4 +5,8 @@
     font-family: "Inter", "Arial", sans-serif;
     font-size: 18px;
     font-weight: 400;
+    cursor: pointer;
+}
+.login__link{
+    opacity: 0.85;
 }
