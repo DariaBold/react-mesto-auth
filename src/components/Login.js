@@ -34,6 +34,7 @@ function Login({ handleLogin }) {
           type="text"
           placeholder="Email"
           onChange={handleChange}
+          value={formValue.email}
         />
         <input
           required=""
@@ -43,6 +44,7 @@ function Login({ handleLogin }) {
           type="password"
           placeholder="Пароль"
           onChange={handleChange}
+          value={formValue.password}
         />
         <div className="login__button-container">
           <button type="submit" className="login__link">
